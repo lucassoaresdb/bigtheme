@@ -22,7 +22,7 @@
   "header-row#contact": {
     "children": [
       "rich-text#televendas",
-      "rich-text#telefone",
+      //"rich-text#telefone",
       "header-spacer",
       "login"
     ],
